@@ -10,4 +10,4 @@ scikit-learn
 matplotlib
 pandas
 streamlit
-nltk
+
